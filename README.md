@@ -4,10 +4,13 @@
 Soy Técnico Superior en Desarrollo de Aplicaciones Web (DAW), con fecha de finalización en junio de 2025, y cuento con una variedad de certificaciones en tecnología y desarrollo, entre ellas:
 
 Python Essentials 1 y 2 - Python Institute y Cisco  
-IT Automation with Python, Cybersecurity y Data Analytics - Google  
-JavaScript Essentials 1 y 2 - Cisco  
-Gestión de Proyectos e IA Essentials - Google  
+IT Automation with Python - Google  
+Cybersecurity - Google  
+Data Analytics - Google  
+Gestión de Proyectos - Google  
+IA Essentials - Google  
 Introducción al Desarrollo Web (HTML y CSS) - Google  
+JavaScript Essentials 1 y 2 - Cisco  
 WordPress - Junta de Andalucía (Vuela)  
 Iniciación a la Inteligencia Artificial - Cámaras de Comercio  
 
