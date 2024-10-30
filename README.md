@@ -51,8 +51,15 @@ Publicidad Integral para Constructoras y Promotoras: Servicios de publicidad par
 Instalación y Capacitación en Sistemas Informáticos: Formación y soporte para estudios de arquitectura y empresas constructoras en sistemas CAD y hardware.  
 Reprogramación de Tableros CAD: Adaptación de sistemas a nuevos entornos operativos y soporte técnico en AutoCAD y Auto Lisp.  
 
+🎮 Intereses  
+Además de la tecnología y el desarrollo, disfruto de mis hobbies. Soy un apasionado de:  
+
+Videojuegos empecé con un Spectrum 48k y ahora en PS5  
+Películas, soy algo "friki": Desde Star Wars, Marvel y DC Comics hasta El Señor de los Anillos  
+Deportes: Running, ciclismo de carretera y montaña (MTB)  
+
 🌐 Contacto  
-Email: ajmaseb@gmail.com  
-LinkedIn: linkedin.com/in/mase73  
-Credly: [Perfil de Credly](https://www.credly.com/users/ajmaseb)  
-Coursera: [Perfil de Coursera](https://www.coursera.org/learner/mase)  
+Email: ajmaseb@gmail.com - 
+[Linkedin](linkedin.com/in/mase73) - 
+[Credly](https://www.credly.com/users/ajmaseb) - 
+[Coursera](https://www.coursera.org/learner/mase) 
