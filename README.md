@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Antonio José Masegosa Botella - Mase
 
-🎓 Formación
+🎓 Formación  
 Soy Técnico Superior en Desarrollo de Aplicaciones Web (DAW), con fecha de finalización en junio de 2025, y cuento con una variedad de certificaciones en tecnología y desarrollo, entre ellas:
 
 Python Essentials 1 y 2 - Python Institute y Cisco  
@@ -20,7 +20,7 @@ Sistemas Operativos: Fundamentos en Windows y GNU/Linux
 Ciberseguridad y Gestión de Proyectos  
 Aplicaciones y herramientas: AutoCAD, diseño 2D y 3D  
 
-🛠️ Experiencia Profesional
+🛠️ Experiencia Profesional  
 Mi experiencia profesional abarca más de dos décadas, durante las cuales he desempeñado roles técnicos, de supervisión y docencia en entornos de tecnología, diseño y formación:
 
 2021 - 2024: Minera de Órgiva  
